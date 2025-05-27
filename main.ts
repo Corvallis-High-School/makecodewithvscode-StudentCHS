@@ -34,6 +34,6 @@ list = [
 assets.image`myCat`,
 assets.image`mySnake`,
 assets.image`myShroom`,
-    assets.image`myDonut`,
+assets.image`myDonut`,
 assets.image`myApple`
 ]

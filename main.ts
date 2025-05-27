@@ -37,3 +37,5 @@ assets.image`myShroom`,
 assets.image`myDonut`,
 assets.image`myApple`
 ]
+
+//

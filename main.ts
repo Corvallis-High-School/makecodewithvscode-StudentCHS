@@ -28,9 +28,14 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
 /*
  *Main program
  */
+
+//this is a list of my sprite images
 list = [
 assets.image`myCat`,
 assets.image`mySnake`,
 assets.image`myShroom`,
-assets.image`myDonut`
+assets.image`myDonut`,
+assets.image`myApple`
 ]
+
+//
